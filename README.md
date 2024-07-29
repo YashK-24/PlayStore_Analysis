@@ -16,7 +16,7 @@ factors together? Analyze the data and present your insights in a format consuma
 business – the final output of the analysis would be presented to business as insights with 
 supporting data/visualizations.
 
-# Answered Tasks
+# Tasks
 
 1. Data clean up – Missing value treatment
     * Drop records where rating is missing since rating is our target/study variable
